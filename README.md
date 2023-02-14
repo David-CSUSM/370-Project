@@ -3,4 +3,4 @@
 Authors:
 1. David Hernandez
 2. Simon Hausmaninger
-3. Adam
+3. Adam Beck
